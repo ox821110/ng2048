@@ -1,0 +1,4 @@
+---
+applications:
+ - name: Game2048
+   memory: 128M
